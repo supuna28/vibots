@@ -1,0 +1,178 @@
+//BACA DULU LAHHHHHHHHH ASU
+
+//BAGIAN DEVELOPER BOLEH DIUBAH ASAL CHANNEL W JGN DIHAPUS LAH
+/* . JANGAN DI HAPUS, KALO GAK MAU ERROR*/
+
+const help = (prefix,shp,monoscape) => {
+	return ` ╔══ > ⚠️ Mode Wars ⚠️
+║♨️${prefix}vweb
+║♨️${prefix}virgam
+║♨️${prefix}virtag
+║♨️${prefix}virtex
+║♨️${prefix}bugv1
+║♨️${prefix}buglist
+║♨️${prefix}bugsw
+║♨️${prefix}bugpdf
+║♨️${prefix}bugpc
+║♨️${prefix}bugbutton
+║♨️${prefix}bugkatalog
+║♨️${prefix}bugimg
+║♨️${prefix}buggif
+║♨️${prefix}bugdoc
+║♨️${prefix}bugtroli
+║♨️${prefix}bugloc
+║♨️${prefix}bugvn
+║♨️${prefix}bugstik
+║♨️${prefix}bugkontak
+║♨️${prefix}buggc [ TotalSpam ]
+║♨️${prefix}sendbug
+╚══✮✮  𝘈𝘙𝘌𝘟𝘈𝘕𝘚 咽翁 𝔹𝕆𝕋 ✮✮ 
+
+╔══>  🏷️ All Menu 🏷️
+║🏷${prefix}add 
+║🏷️${prefix}kick
+║🏷️${prefix}promote
+║🏷️${prefix}demote
+║🏷️${prefix}sticker
+║🏷️${prefix}tahta
+║🏷️${prefix}glitch
+║🏷️${prefix}igstalk
+║🏷️${prefix}tovn
+║🏷️${prefix}wait
+║🏷️${prefix}linkgc
+║🏷️${prefix}leave
+║🏷️${prefix}toimg
+║🏷️${prefix}clearall
+║🏷️${prefix}bc
+║🏷️${prefix}img2url
+║🏷️${prefix}lirik
+║🏷️${prefix}hidetag
+║🏷️${prefix}meme
+║🏷️${prefix}info
+║🏷️${prefix}clone
+║🏷️${prefix}welcome 
+║🏷️${prefix}runtime
+║🏷️${prefix}upswteks
+║🏷️${prefix}upswimg
+║🏷️${prefix}upswvid
+║🏷️${prefix}spam [ Jumlah ]
+║🏷️${prefix}buatgc
+║🏷️${prefix}fastt
+║🏷️${prefix}slow
+║🏷️${prefix}reverse
+║🏷️${prefix}mirror
+║🏷️${prefix}hitamputih
+║🏷️${prefix}nosound
+║🏷️${prefix}gemes
+║🏷️${prefix}tempo
+║🏷️${prefix}nightcore
+║🏷️${prefix}fast
+║🏷️${prefix}tupai
+║🏷️${prefix}gemok
+║🏷️${prefix}bass
+║🏷️${prefix}budek
+║🏷️${prefix}ghost
+║🏷️${prefix}hode
+║🏷️${prefix}robot
+║🏷️${prefix}imut
+║🏷️${prefix}quoted
+║🏷️${prefix}golden
+║🏷️${prefix}wooden
+║🏷️${prefix}quote
+║🏷️${prefix}burn
+║🏷️${prefix}flower
+║🏷️${prefix}summer
+║🏷️${prefix}glow
+║🏷️${prefix}neon
+║🏷️${prefix}coffeecup2
+║🏷️${prefix}coffeecup
+║🏷️${prefix}battlefield
+║🏷️${prefix}google
+║🏷️${prefix}transformer
+║🏷️${prefix}maker3d4
+║🏷️${prefix}maker3d3
+║🏷️${prefix}maker3d
+║🏷️${prefix}maker3d2
+║🏷️${prefix}maker2d4
+║🏷️${prefix}maker2d3
+║🏷️${prefix}maker2d2
+║🏷️${prefix}maker2d
+║🏷️${prefix}play 
+║🏷️${prefix}loli
+║🏷️${prefix}bukagrup
+║🏷️${prefix}tutupgrup
+║🏷️${prefix}upswlokasi
+║🏷️${prefix}upswaudio
+║🏷️${prefix}upswsticker
+║🏷️${prefix}nopref
+║🏷️${prefix}multi
+║🏷️${prefix}setprefix
+║🏷️${prefix}ngif
+║🏷️${prefix}hgif
+║🏷️${prefix}neko
+║🏷️${prefix}asupan
+║🏷️${prefix}join
+║🏷️${prefix}culik
+║🏷️${prefix}gasm
+║🏷️${prefix}eroyuri
+║🏷️${prefix}eroneko
+║🏷️${prefix}erokemonomimi
+║🏷️${prefix}erokitsune
+║🏷️${prefix}feet
+║🏷️${prefix}erofeet
+║🏷️${prefix}femdom
+║🏷️${prefix}futanari
+║🏷️${prefix}hentai
+║🏷️${prefix}holoero
+║🏷️${prefix}holo
+║🏷️${prefix}keta
+║🏷️${prefix}kitsune
+║🏷️${prefix}kemonomimi
+║🏷️${prefix}girlsolo
+║🏷️${prefix}tits
+║🏷️${prefix}trap
+║🏷️${prefix}yuri
+║🏷️${prefix}avatar
+║🏷️${prefix}gecg
+║🏷️${prefix}wallpaper
+║🏷️${prefix}foxgirl
+║🏷️${prefix}ytmp3
+║🏷️${prefix}ytmp4
+║🏷️${prefix}url2img
+║🏷️${prefix}ytsearch
+║🏷️x 
+║🏷️$ 
+║🏷️> 
+╚══✮✮  𝘈𝘙𝘌𝘟𝘈𝘕𝘚 咽翁 𝔹𝕆𝕋 ✮✮ 
+
+╔══> 🔖  Random Menu 🔖
+║🔖${prefix}addimg
+║🔖${prefix}listimg
+║🔖${prefix}getimg
+║🔖${prefix}addvn
+║🔖${prefix}listvn
+║🔖${prefix}getvn
+║🔖${prefix}addstik
+║🔖${prefix}liststik
+║🔖${prefix}getstik
+║🔖${prefix}addvid
+║🔖${prefix}listvid
+║🔖${prefix}getvid
+╚══✮✮  𝘈𝘙𝘌𝘟𝘈𝘕𝘚 咽翁 𝔹𝕆𝕋 ✮✮ 
+
+╔══> DEVELOPER 👨‍💻
+║Channel: https://bit.ly/3lfWPUL
+║Instagram: https://cutt.ly/2WYDJ0j
+║Whatsapp:https://bit.ly/38NRttX
+╚══> KONTAK DEVELOPER ✉️
+
+╔══> 💕💕  Thanks To  💕💕
+║ 💞 ALLAH SWT
+║ 💞 Orang Tua
+║ 💞 Saya Sendiri
+║ 💞 Dan Penyedia node_modules
+║ 💞 SUBSCRIBE CHANNEL AREXANS
+╚══>💗💗  𝘈𝘙𝘌𝘟𝘈𝘕𝘚 咽翁 𝔹𝕆𝕋`
+}
+
+exports.help = help
